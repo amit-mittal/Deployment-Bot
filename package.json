@@ -1,0 +1,15 @@
+{
+  "name": "deploymentserver",
+  "version": "1.0.0",
+  "description": "Deployment server to unblock the deployment",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node app.js"
+  },
+  "author": "Amit Mittal",
+  "license": "ISC",
+  "dependencies": {
+    "azure": "^1.2.0-preview"
+  }
+}
